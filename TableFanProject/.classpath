@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="H:/Walton/WorkSpaceWalton/WorkSpace/TableFanProject/jcalendar.jar"/>
+	<classpathentry kind="lib" path="H:/Walton/WorkSpaceWalton/WorkSpace/TableFanProject/jssc-2.8.0.jar"/>
+	<classpathentry kind="lib" path="H:/Walton/WorkSpaceWalton/WorkSpace/TableFanProject/sqlite-jdbc-3.8.5-pre1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
